@@ -1,9 +1,0 @@
-C:\All files\VSfiles\BankApplication\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.deps.json
-C:\All files\VSfiles\BankApplication\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.dll
-C:\All files\VSfiles\BankApplication\BankLibrary\bin\Debug\netstandard2.0\BankLibrary.pdb
-C:\All files\VSfiles\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csprojAssemblyReference.cache
-C:\All files\VSfiles\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfoInputs.cache
-C:\All files\VSfiles\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.AssemblyInfo.cs
-C:\All files\VSfiles\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.csproj.CoreCompileInputs.cache
-C:\All files\VSfiles\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.dll
-C:\All files\VSfiles\BankApplication\BankLibrary\obj\Debug\netstandard2.0\BankLibrary.pdb
