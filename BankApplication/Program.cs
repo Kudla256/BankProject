@@ -7,6 +7,7 @@ namespace BankApplication
     {
         static void Main(string[] args)
         {
+        
             Bank<Account> bank = new Bank<Account>("ЮнитБанк");
             bool alive = true;
             while (alive)
