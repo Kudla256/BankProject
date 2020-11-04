@@ -1,0 +1,16 @@
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.exe
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.deps.json
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.runtimeconfig.json
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.runtimeconfig.dev.json
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.dll
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankApplication.pdb
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankLibrary.dll
+C:\All files\VSfiles\BankApplication\BankApplication\bin\Debug\netcoreapp3.1\BankLibrary.pdb
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.csprojAssemblyReference.cache
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.AssemblyInfoInputs.cache
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.AssemblyInfo.cs
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.csproj.CoreCompileInputs.cache
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.csproj.CopyComplete
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.dll
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.pdb
+C:\All files\VSfiles\BankApplication\BankApplication\obj\Debug\netcoreapp3.1\BankApplication.genruntimeconfig.cache
